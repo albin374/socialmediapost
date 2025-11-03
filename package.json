@@ -9,6 +9,7 @@
     "dev": "concurrently \"npm run backend\" \"npm run frontend\""
   },
   "dependencies": {
-    "concurrently": "^8.0.0"
+    "concurrently": "^8.0.0",
+    "mongodb": "^6.20.0"
   }
 }
